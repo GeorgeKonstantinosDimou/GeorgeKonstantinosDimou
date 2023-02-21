@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GeorgeKonstantinosDimou
-- 👀 I’m interested in learning, either it is a new "technology",software or skill as long as it seems usefull to have in my arsenal count me in!
-- 🌱 I’m currently studying for my bachelors degree on Applied Informatics but i have a thing for Data science which i will try to follow as a career
+- 👀 My interests besides my job mainly focus around reading self-development books and trying to constantly improve
+- 🌱 I’m currently studying for my bachelors degree on Applied Informatics and I plan to continue down the path of Data Science, more specifically A.I engineering
 - 📫 How to reach me: georgedimou8@gmail.com
 
 <!---
