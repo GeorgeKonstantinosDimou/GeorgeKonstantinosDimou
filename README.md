@@ -6,7 +6,7 @@ Just finished my BSc on [Applied Informatics in University of Macedonia](https:/
 - Inquisitive Math and Statistics student 👩‍🔬
 - Adaptable and dedicated team player 🤝
 - Creative problem solver
-- Next year I am aiming to enroll for a MSc in [Artificial Intelligence and Data Analytics again on University of Macedonia](https://www.uom.gr/en/aida) which is notoriously difficult to get accepted let alone graduate 🤔
+- Next year I am aiming to enroll for a MSc in Data Science
 
 📫 How to reach me: georgedimou8@gmail.com
 
