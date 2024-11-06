@@ -1,7 +1,7 @@
 👋 Hi, I’m George Konstantinos Dimou but everyone mostly calls me by my last name, Dimou.
 
 Just finished my BSc on [Applied Informatics in University of Macedonia](https://www.uom.gr/en/dai) 🎊. While studying there I found my true love and passion which is Data Science and I plan to follow that dream until the end.
-Currently on my Msc on [Data and Web Science](https://dws.csd.auth.gr/)
+Currently on my Msc on [Data and Web Science](https://dws.csd.auth.gr/).
 
 - Data Science Enthusiast 💻
 - Inquisitive Math and Statistics student 👩‍🔬
